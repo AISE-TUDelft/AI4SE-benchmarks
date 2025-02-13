@@ -1,0 +1,50 @@
+{
+    "HumanEval pass@1": {
+        "NTQAI/Nxcode-CQ-7B-orpo": 87.23,
+        "Qwen/CodeQwen1.5-7B": 87.2,
+        "deepseek-ai/deepseek-coder-6.7b-instruct": 80.22,
+        "TechxGenus/starcoder2-15b-instruct": 77.4,
+        "ise-uiuc/Magicoder-S-DS-6.7B": 76.8,
+        "Artigenz/Artigenz-Coder-DS-6.7B": 75.6,
+        "HuggingFaceH4/starchat2-15b-v0.1": 73.8,
+        "google/codegemma-7b-it": 60.4,
+        "codellama/CodeLlama-13b-Instruct-hf": 50.6,
+        "stabilityai/stable-code-3b": 30.72
+    },
+    "HumanEvalNext pass@1": {
+        "deepseek-ai/deepseek-coder-6.7b-instruct": 58.536585365853654,
+        "ise-uiuc/Magicoder-S-DS-6.7B": 53.65853658536586,
+        "Artigenz/Artigenz-Coder-DS-6.7B": 53.65853658536586,
+        "NTQAI/Nxcode-CQ-7B-orpo": 51.21951219512195,
+        "TechxGenus/starcoder2-15b-instruct": 43.292682926829265,
+        "HuggingFaceH4/starchat2-15b-v0.1": 43.292682926829265,
+        "google/codegemma-7b-it": 41.46341463414634,
+        "codellama/CodeLlama-13b-Instruct-hf": 29.878048780487802,
+        "Qwen/CodeQwen1.5-7B": 10.975609756097562,
+        "stabilityai/stable-code-3b": 1.8292682926829267
+    },
+    "HumanEvalNext latest_pass@1": {
+        "deepseek-ai/deepseek-coder-6.7b-instruct": 67.42503817798092,
+        "ise-uiuc/Magicoder-S-DS-6.7B": 63.39116374956652,
+        "Artigenz/Artigenz-Coder-DS-6.7B": 62.20961673533905,
+        "NTQAI/Nxcode-CQ-7B-orpo": 61.35000037945454,
+        "HuggingFaceH4/starchat2-15b-v0.1": 53.61863770104538,
+        "google/codegemma-7b-it": 52.14693081563383,
+        "TechxGenus/starcoder2-15b-instruct": 47.855653002074696,
+        "codellama/CodeLlama-13b-Instruct-hf": 39.0112964130797,
+        "Qwen/CodeQwen1.5-7B": 13.399012065170602,
+        "stabilityai/stable-code-3b": 2.5388026607538805
+    },
+    "HumanEvalNext pass_ratio@1": {
+        "deepseek-ai/deepseek-coder-6.7b-instruct": 82.11129056950989,
+        "ise-uiuc/Magicoder-S-DS-6.7B": 79.88582747501086,
+        "Artigenz/Artigenz-Coder-DS-6.7B": 78.95566210890698,
+        "NTQAI/Nxcode-CQ-7B-orpo": 77.45797893733632,
+        "google/codegemma-7b-it": 71.29631172094116,
+        "HuggingFaceH4/starchat2-15b-v0.1": 68.08979864680656,
+        "TechxGenus/starcoder2-15b-instruct": 58.13876033405706,
+        "codellama/CodeLlama-13b-Instruct-hf": 57.34447639736937,
+        "Qwen/CodeQwen1.5-7B": 17.33927899433126,
+        "stabilityai/stable-code-3b": 2.8910553220094113
+    }
+}

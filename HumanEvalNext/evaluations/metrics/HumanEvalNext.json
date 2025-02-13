@@ -1,0 +1,112 @@
+{
+    "deepseek_coder": {
+        "model": "deepseek-ai/deepseek-coder-6.7b-instruct",
+        "metrics": {
+            "pass@1": 0.5853658536585366,
+            "avg_test_pass_ratio": 0.8211129056950989,
+            "avg_first_non_passing_test_ratio": 0.6742503817798092
+        },
+        "original_pass1_scores": {
+            "py": 80.22
+        }
+    },
+    "magicoder": {
+        "model": "ise-uiuc/Magicoder-S-DS-6.7B",
+        "metrics": {
+            "pass@1": 0.5365853658536586,
+            "avg_test_pass_ratio": 0.7988582747501086,
+            "avg_first_non_passing_test_ratio": 0.6339116374956653
+        },
+        "original_pass1_scores": {
+            "py": 76.8
+        }
+    },
+    "codeqwen": {
+        "model": "Qwen/CodeQwen1.5-7B",
+        "metrics": {
+            "pass@1": 0.10975609756097561,
+            "avg_test_pass_ratio": 0.1733927899433126,
+            "avg_first_non_passing_test_ratio": 0.133990120651706
+        },
+        "original_pass1_scores": {
+            "py": 87.2
+        }
+    },
+    "starcoder2": {
+        "model": "TechxGenus/starcoder2-15b-instruct",
+        "metrics": {
+            "pass@1": 0.4329268292682927,
+            "avg_test_pass_ratio": 0.5813876033405706,
+            "avg_first_non_passing_test_ratio": 0.47855653002074694
+        },
+        "original_pass1_scores": {
+            "py": 77.4
+        }
+    },
+    "artigenz_coder": {
+        "model": "Artigenz/Artigenz-Coder-DS-6.7B",
+        "metrics": {
+            "pass@1": 0.5365853658536586,
+            "avg_test_pass_ratio": 0.7895566210890698,
+            "avg_first_non_passing_test_ratio": 0.6220961673533905
+        },
+        "original_pass1_scores": {
+            "py": 75.6
+        }
+    },
+    "nxcode": {
+        "model": "NTQAI/Nxcode-CQ-7B-orpo",
+        "metrics": {
+            "pass@1": 0.5121951219512195,
+            "avg_test_pass_ratio": 0.7745797893733632,
+            "avg_first_non_passing_test_ratio": 0.6135000037945454
+        },
+        "original_pass1_scores": {
+            "py": 87.23
+        }
+    },
+    "stable_code": {
+        "model": "stabilityai/stable-code-3b",
+        "metrics": {
+            "pass@1": 0.018292682926829267,
+            "avg_test_pass_ratio": 0.02891055322009411,
+            "avg_first_non_passing_test_ratio": 0.025388026607538805
+        },
+        "original_pass1_scores": {
+            "py": 30.72
+        }
+    },
+    "starchat2": {
+        "model": "HuggingFaceH4/starchat2-15b-v0.1",
+        "metrics": {
+            "pass@1": 0.4329268292682927,
+            "avg_test_pass_ratio": 0.6808979864680655,
+            "avg_first_non_passing_test_ratio": 0.5361863770104538
+        },
+        "original_pass1_scores": {
+            "py": 73.8
+        }
+    },
+    "code_llama": {
+        "model": "codellama/CodeLlama-13b-Instruct-hf",
+        "metrics": {
+            "pass@1": 0.29878048780487804,
+            "avg_test_pass_ratio": 0.5734447639736937,
+            "avg_first_non_passing_test_ratio": 0.390112964130797
+        },
+        "original_pass1_scores": {
+            "py": 50.6
+        }
+    },
+    "codegemma": {
+        "model": "google/codegemma-7b-it",
+        "metrics": {
+            "pass@1": 0.4146341463414634,
+            "avg_test_pass_ratio": 0.7129631172094116,
+            "avg_first_non_passing_test_ratio": 0.5214693081563383
+        },
+        "original_pass1_scores": {
+            "py": 60.4
+        }
+    }
+}
