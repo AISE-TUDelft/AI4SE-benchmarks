@@ -28,7 +28,7 @@ The review section can be found [here](./Review/README.md).
 BenchScout  is a tool that helps users discover relevant benchmarks and access associated literature. The tool can be found [here](https://evalpro.online/search.html).
 The results of the user study on BenchScout  can be found [here](scout/README.md).
 
-## HumanEvalNext
+## HumanEvalNext - Link to [HuggingFace Dataset 🤗](https://huggingface.co/datasets/AISE-TUDelft/HumanEvalNext)
 
 HumanEvalNext is an improved version of the HumanEval code generation benchmark.
 The improvements made are based on the framework EvalPro. This framework is aimed at enhancing benchmark quality through a rigorous improvement process along with peer reviews.
